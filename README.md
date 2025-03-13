@@ -7,7 +7,7 @@ KNU(Kyungpook National University) Park gyeongtaek learning task upload space
 -------------
 ## Goal : C++의 중요성을 알고 사용할 수 있다 ###
 
-## ◆ 프로젝트 작성 방법은 ## 
+###### ◆ 프로젝트 작성 방법은 ####
 01W01C01 --> 01 Week 01 Chapter 01 (task) 입니다
 
 > 1주차 실습

@@ -8,4 +8,4 @@ KNU(Kyungpook National University) Park gyeongtaek learning task upload space
 [luxury_cpp_programming/Homework Repository](https://github.com/KOREANFREI/Luxury_Cpp_Programming/tree/main/Homework%20Repository/chapter%201)
 
 > 2주차 실습
-> https://github.com/KOREANFREI/Luxury_Cpp_Programming/tree/main/Homework%20Repository/chapter%202
+[[luxury_cpp_programming/Homework Repository](https://github.com/KOREANFREI/Luxury_Cpp_Programming/tree/main/Homework%20Repository/chapter%202).

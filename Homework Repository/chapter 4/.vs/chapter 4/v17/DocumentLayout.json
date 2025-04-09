@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Luxury_Cpp_Programming\\Homework Repository\\chapter 4\\",
+  "WorkspaceRootPath": "C:\\Users\\balam\\OneDrive\\Desktop\\Luxury_Cpp_Programming\\Homework Repository\\chapter 4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F85E1CF-169F-42E7-90E6-1990C7619992}|4-9\\4-9.vcxproj|C:\\Users\\admin\\Desktop\\Luxury_Cpp_Programming\\Homework Repository\\chapter 4\\4-9\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0F85E1CF-169F-42E7-90E6-1990C7619992}|4-9\\4-9.vcxproj|solutionrelative:4-9\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8141EF38-8E23-4923-95EF-B6A7602F412F}|4-14\\4-14.vcxproj|C:\\Users\\balam\\OneDrive\\Desktop\\Luxury_Cpp_Programming\\Homework Repository\\chapter 4\\4-14\\Gambling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8141EF38-8E23-4923-95EF-B6A7602F412F}|4-14\\4-14.vcxproj|solutionrelative:4-14\\Gambling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +19,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "person.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Luxury_Cpp_Programming\\Homework Repository\\chapter 4\\4-9\\person.cpp",
-              "RelativeDocumentMoniker": "4-9\\person.cpp",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\Luxury_Cpp_Programming\\Homework Repository\\chapter 4\\4-9\\person.cpp",
-              "RelativeToolTip": "4-9\\person.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Title": "Gambling.cpp",
+              "DocumentMoniker": "C:\\Users\\balam\\OneDrive\\Desktop\\Luxury_Cpp_Programming\\Homework Repository\\chapter 4\\4-14\\Gambling.cpp",
+              "RelativeDocumentMoniker": "4-14\\Gambling.cpp",
+              "ToolTip": "C:\\Users\\balam\\OneDrive\\Desktop\\Luxury_Cpp_Programming\\Homework Repository\\chapter 4\\4-14\\Gambling.cpp",
+              "RelativeToolTip": "4-14\\Gambling.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowCcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-09T12:44:57.381Z",
+              "WhenOpened": "2025-04-09T15:40:36.245Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

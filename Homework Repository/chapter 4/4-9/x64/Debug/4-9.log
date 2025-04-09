@@ -1,3 +1,2 @@
 ﻿  person.cpp
-person.obj : error LNK2019: "public: __cdecl Person::Person(void)" (??0Person@@QEAA@XZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
-C:\Users\admin\Desktop\Luxury_Cpp_Programming\Homework Repository\chapter 4\x64\Debug\4-9.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
+  4-9.vcxproj -> C:\Users\balam\OneDrive\Desktop\Luxury_Cpp_Programming\Homework Repository\chapter 4\x64\Debug\4-9.exe

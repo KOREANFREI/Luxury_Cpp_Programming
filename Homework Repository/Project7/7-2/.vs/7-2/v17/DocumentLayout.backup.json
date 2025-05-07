@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\Project7\\7-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0297A163-4411-4B59-BAF1-C4389557B180}|7-2.vcxproj|C:\\Users\\admin\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\Project7\\7-2\\7_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0297A163-4411-4B59-BAF1-C4389557B180}|7-2.vcxproj|solutionrelative:7_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "7_2.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\Project7\\7-2\\7_2.cpp",
+              "RelativeDocumentMoniker": "7_2.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\Project7\\7-2\\7_2.cpp",
+              "RelativeToolTip": "7_2.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T05:17:43.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

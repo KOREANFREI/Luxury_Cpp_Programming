@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\7-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B462DED3-9DD3-4117-BCF7-462BCAAEAC08}|chapter 7\\chapter 7.vcxproj|C:\\Users\\admin\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\7-1\\chapter 7\\7_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B462DED3-9DD3-4117-BCF7-462BCAAEAC08}|chapter 7\\chapter 7.vcxproj|solutionrelative:chapter 7\\7_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B462DED3-9DD3-4117-BCF7-462BCAAEAC08}|chapter 7\\chapter 7.vcxproj|C:\\Users\\admin\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\7-1\\chapter 7\\sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B462DED3-9DD3-4117-BCF7-462BCAAEAC08}|chapter 7\\chapter 7.vcxproj|solutionrelative:chapter 7\\sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sub.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\7-1\\chapter 7\\sub.cpp",
+              "RelativeDocumentMoniker": "chapter 7\\sub.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\7-1\\chapter 7\\sub.cpp",
+              "RelativeToolTip": "chapter 7\\sub.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T01:39:22.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "7_1.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\7-1\\chapter 7\\7_1.cpp",
+              "RelativeDocumentMoniker": "chapter 7\\7_1.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\7-1\\chapter 7\\7_1.cpp",
+              "RelativeToolTip": "chapter 7\\7_1.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T01:36:26.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
